@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_button_calorie"
+        android:title="@string/menu_calorie"
+        android:icon="@drawable/ic_rice_24_white" />
+
+    <item
+        android:id="@+id/menu_button_exercise"
+        android:title="@string/menu_exercise"
+        android:icon="@drawable/ic_bike_24_white" />
+
+    <item
+        android:id="@+id/menu_button_statistics"
+        android:title="@string/menu_statistics"
+        android:icon="@drawable/ic_chart_line_24_white" />
+
+    <item
+        android:id="@+id/menu_button_account"
+        android:title="@string/menu_account"
+        android:icon="@drawable/ic_account_24_white" />
+
+</menu>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#22BB9C</color>
+    <color name="color_primary_variant">#22BB9C</color>
+    <color name="color_Secondary">#333333</color>
+    <color name="color_Secondary_variant">#03DAC5</color>
+
+    <!-- Text -->
+    <color name="sub_text_color">#777777</color>
+    <color name="selected_text_color">#333333</color>
+    <color name="hint_text_color">#999999</color>
+    <color name="blue_text_color">#304FFE</color>
+    <color name="red_text_color">#D93434</color>
+
+    <!-- Icon -->
+    <color name="gray_icon_color">#999999</color>
+    <color name="dark_gray_icon_color">#333333</color>
+    <color name="green_icon_color">#22BB9C</color>
+
+    <!-- Button -->
+    <color name="default_button_color">#333333</color>
+    <color name="pressed_button_color">#111111</color>
+    <color name="border_button_color">#FFFFFF</color>
+    <color name="border_pressed_button_color">#D6D6D6</color>
+    <color name="add_button_color">#22BB9C</color>
+
+    <!-- List -->
+    <color name="default_list_color">#FFFFFF</color>
+    <color name="pressed_list_color">#D6D6D6</color>
+
+    <!-- Line -->
+    <color name="default_line_color">#CCCCCC</color>
+
+    <!-- Border -->
+    <color name="edit_border_color">#CCCCCC</color>
+
+    <!-- Transparency -->
+    <color name="popup_transparent">#66000000</color>
+
+    <!-- Nutrient Color -->
+    <color name="nutrient_color_0">#999999</color>
+    <color name="nutrient_color_1">#304FFE</color>
+    <color name="nutrient_color_2">#22BB9C</color>
+    <color name="nutrient_color_3">#FFD966</color>
+    <color name="nutrient_color_4">#D93434</color>
+    <color name="nutrient_color_5">#FF783B</color>
+
+    <!-- Graph Color-->
+    <color name="graph_data_food_color">#FF783B</color>
+    <color name="graph_data_exercise_color">#304FFE</color>
+</resources>

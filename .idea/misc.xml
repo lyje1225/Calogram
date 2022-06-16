@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/cha/AndroidStudioProjects/projecth1/app/src/main/res/drawable/ic_account_24_white.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/cha/AndroidStudioProjects/projecth1/app/src/main/res/drawable/ic_account_circle_24_green.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/cha/AndroidStudioProjects/projecth1/app/src/main/res/drawable/ic_menu_down_24_black.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/cha/AndroidStudioProjects/projecth1/app/src/main/res/drawable/ic_plus_thick_24_white.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/cha/AndroidStudioProjects/projecth1/app/src/main/res/drawable/ic_rice_24_white.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/cha/AndroidStudioProjects/projecth1/app/src/main/res/layout/activity_intro.xml" value="0.22" />
+        <entry key="..\:/Users/cha/AndroidStudioProjects/projecth1/app/src/main/res/layout/activity_join.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/cha/AndroidStudioProjects/projecth1/app/src/main/res/layout/activity_login.xml" value="0.3098958333333333" />
+        <entry key="..\:/Users/cha/AndroidStudioProjects/projecth1/app/src/main/res/layout/fragment_account.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/cha/AndroidStudioProjects/projecth1/app/src/main/res/layout/fragment_calorie.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/cha/AndroidStudioProjects/projecth1/app/src/main/res/layout/fragment_exercise_day.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/cha/AndroidStudioProjects/projecth1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/cha/AndroidStudioProjects/projecth1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/pc/Desktop/AndroidStudioProjects/projecth1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.245" />
+        <entry key="..\:/Users/pc/Desktop/AndroidStudioProjects/projecth1/app/src/main/res/drawable/ic_checkbox_marked_circle_24_white.xml" value="0.245" />
+        <entry key="..\:/Users/pc/Desktop/AndroidStudioProjects/projecth1/app/src/main/res/drawable/ic_logout_24_white.xml" value="0.245" />
+        <entry key="..\:/Users/pc/Desktop/AndroidStudioProjects/projecth1/app/src/main/res/drawable/ic_plus_thick_24_dark_gray.xml" value="0.245" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

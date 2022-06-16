@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">칼로그램</string>
+
+    <!--    디자인할때 표시할 디폴트 글자    -->
+    <string name="default_text">-</string>
+
+    <!--    Title    -->
+    <string name="title_food_add">섭취한 음식 등록</string>
+
+
+    <!--    Menu    -->
+    <string name="menu_logout">로그아웃</string>
+    <string name="menu_calorie">칼로리</string>
+    <string name="menu_exercise">운동</string>
+    <string name="menu_statistics">통계</string>
+    <string name="menu_account">정보</string>
+
+    <!--    Message    -->
+    <string name="msg_back_press_end">\'뒤로\' 버튼을 한번 더 누르면 종료됩니다.</string>
+    <string name="msg_email_check_empty">이메일을 입력하세요.</string>
+    <string name="msg_email_check_wrong">이메일 형식이 올바르지 않습니다.</string>
+    <string name="msg_password_check_empty">비밀번호를 입력하세요.</string>
+    <string name="msg_password_check_confirm">비밀번호를 확인하세요.</string>
+    <string name="msg_user_name_check_empty">이름을 입력하세요.</string>
+    <string name="msg_gender_check_empty">성별을 선택하세요.</string>
+    <string name="msg_birth_date_check_empty">생년월일을 입력하세요.</string>
+    <string name="msg_birth_date_check_wrong">생년월일 형식이 올바르지 않습니다.</string>
+    <string name="msg_user_height_check_empty">신장을 입력하세요.</string>
+    <string name="msg_user_height_check_wrong">신장을 정확히 입력하세요.</string>
+    <string name="msg_user_weight_check_empty">체중을 입력하세요.</string>
+    <string name="msg_user_weight_check_wrong">체중을 정확히 입력하세요.</string>
+    <string name="msg_email_check_overlap">동일한 이메일이 존재합니다.</string>
+    <string name="msg_login_user_none">등록된 회원이 없습니다.</string>
+    <string name="msg_login_password_wrong">비밀번호가 틀립니다.</string>
+    <string name="msg_exercise_time_check_empty">운동시간을 입력하세요.</string>
+    <string name="msg_exercise_time_check_wrong">운동시간을 정확히 입력하세요.</string>
+    <string name="msg_food_name_check_empty">음식명을 입력하세요.</string>
+    <string name="msg_nutrient_name_check_empty">영양성분을 입력하세요.</string>
+    <string name="msg_nutrient_value_check_empty">내용량을 입력하세요.</string>
+    <string name="msg_nutrient_value_check_wrong">내용량을 정확히 입력하세요.</string>
+    <string name="msg_calorie_check_empty">칼로리를 입력하세요.</string>
+    <string name="msg_calorie_check_wrong">칼로리를 정확히 입력하세요.</string>
+    <string name="msg_food_empty">섭취한 음식이 없습니다.</string>
+    <string name="msg_nutrient_empty">영양정보가 없습니다.</string>
+    <string name="msg_exercise_empty">운동한 내역이 없습니다.</string>
+    <string name="msg_camera_app_empty">사용가능한 카메라 앱이 없습니다.</string>
+    <string name="msg_text_detection_failure">텍스트 인식에 실패했습니다.</string>
+    <string name="msg_error">일시적인 장애가 발생했습니다.</string>
+
+    <!--    Dialog    -->
+    <string name="dialog_title_logout">로그아웃</string>
+    <string name="dialog_title_delete">삭제</string>
+    <string name="dialog_msg_logout">로그아웃 하시겠습니까?</string>
+    <string name="dialog_msg_delete">삭제하시겠습니까?</string>
+    <string name="dialog_ok">확인</string>
+    <string name="dialog_cancel">취소</string>
+    <string name="dialog_allow">수락</string>
+    <string name="dialog_deny">거부</string>
+
+    <!--    Permission    -->
+    <string name="permission_rationale_app_use">앱을 이용하기 위해 권한이 필요합니다.</string>
+
+    <string-array name="meal_kind_list">
+        <item>아침</item>
+        <item>점심</item>
+        <item>저녁</item>
+    </string-array>
+
+    <string-array name="nutrient_list">
+        <item>나트륨</item>
+        <item>탄수화물</item>
+        <item>당류</item>
+        <item>지방</item>
+        <item>단백질</item>
+    </string-array>
+</resources>
